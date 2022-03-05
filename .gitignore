@@ -1,0 +1,6 @@
+.git/
+.idea/
+res/
+.pyc
+__pycache__
+/learner/dqrn.py
