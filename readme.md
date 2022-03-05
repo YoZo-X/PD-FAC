@@ -14,4 +14,4 @@ Python implement of paper "PD-FAC: Probability Density Factorized Multi-Agent Di
 ![image](https://github.com/YoZo-X/PD-FAC/blob/master/img/frame.png)
 
 ### 2. How to use
-  You can run script quick_start.py easily and modify the params in your own test in a easy way.
+  You can run script quick_start.py easily and modify the params in your own experiment.
